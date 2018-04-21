@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tomatoes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_single_movie">SingleMovieActivity</string>
+    <string name="title_activity_single_actor">SingleActorActivity</string>
+    <string name="title_activity_single_show">SingleShowActivity</string>
+    <string name="title_activity_all_tvshows">AllTVShows</string>
+    <string name="title_activity_single_season">SingleSeasonActivity</string>
+    <string name="title_activity_single_episode">SingleEpisodeActivity</string>
+</resources>
